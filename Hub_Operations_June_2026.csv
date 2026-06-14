@@ -1,0 +1,481 @@
+GasDay,PlantId,PlantName,WellID,WellName,PipelineID,PipelineName,WellStatus,MaintenanceType,PipelineCapacity,PipelineForecastFlow,CurrentFlow,FlowVariance,PerformanceStatus,OperatorComments,LastUpdated
+2026-06-01,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Inactive,Scheduled,1000,800,0,-800,Critical,Routine maintenance and calibration,2026-06-01 09:14:08
+2026-06-01,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1745,45,Normal,No abnormal conditions reported,2026-06-01 07:37:27
+2026-06-01,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,818,-32,Warning,Stable operation,2026-06-01 14:38:01
+2026-06-01,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1718,18,Normal,No abnormal conditions reported,2026-06-01 12:14:28
+2026-06-01,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1722,22,Normal,Operating within expected range,2026-06-01 18:51:10
+2026-06-01,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1913,43,Normal,Stable operation,2026-06-01 09:48:21
+2026-06-01,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,1977,-63,Warning,Flow aligned with forecast,2026-06-01 19:22:38
+2026-06-01,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Inactive,Scheduled,2600,2210,0,-2210,Critical,Scheduled line check underway,2026-06-01 14:07:59
+2026-06-01,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2366,-14,Warning,No abnormal conditions reported,2026-06-01 19:23:36
+2026-06-01,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Active,None,3000,2550,2492,-58,Warning,Stable operation,2026-06-01 18:18:05
+2026-06-01,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2821,101,Normal,Normal operation,2026-06-01 10:29:40
+2026-06-01,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,2991,101,Normal,Flow aligned with forecast,2026-06-01 09:42:17
+2026-06-01,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,3131,71,Normal,Operating within expected range,2026-06-01 15:40:10
+2026-06-01,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3256,26,Normal,Normal operation,2026-06-01 12:17:59
+2026-06-01,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3460,60,Normal,Flow aligned with forecast,2026-06-01 19:49:49
+2026-06-01,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3445,-125,Warning,Flow aligned with forecast,2026-06-01 12:17:04
+2026-06-02,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Active,None,1000,800,783,-17,Warning,Flow aligned with forecast,2026-06-02 09:41:31
+2026-06-02,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1693,-7,Warning,Normal operation,2026-06-02 08:16:08
+2026-06-02,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,835,-15,Warning,Flow aligned with forecast,2026-06-02 17:37:27
+2026-06-02,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1769,69,Normal,Stable operation,2026-06-02 08:32:31
+2026-06-02,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Inactive,Scheduled,2000,1700,0,-1700,Critical,Scheduled inspection in progress,2026-06-02 08:40:10
+2026-06-02,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1929,59,Normal,Operating within expected range,2026-06-02 12:24:38
+2026-06-02,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,2141,101,Normal,No abnormal conditions reported,2026-06-02 19:00:43
+2026-06-02,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Active,None,2600,2210,2265,55,Normal,No abnormal conditions reported,2026-06-02 18:17:49
+2026-06-02,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2422,42,Normal,Normal operation,2026-06-02 08:29:00
+2026-06-02,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Active,None,3000,2550,2667,117,Normal,Flow aligned with forecast,2026-06-02 14:48:11
+2026-06-02,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2735,15,Normal,Flow aligned with forecast,2026-06-02 19:40:32
+2026-06-02,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,2933,43,Normal,Stable operation,2026-06-02 14:49:59
+2026-06-02,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Inactive,Scheduled,3600,3060,0,-3060,Critical,Routine maintenance and calibration,2026-06-02 13:01:07
+2026-06-02,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3371,141,Normal,Flow aligned with forecast,2026-06-02 09:03:15
+2026-06-02,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3533,133,Normal,Operating within expected range,2026-06-02 17:31:52
+2026-06-02,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3449,-121,Warning,Stable operation,2026-06-02 08:42:30
+2026-06-03,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Active,None,1000,800,836,36,Normal,No abnormal conditions reported,2026-06-03 19:38:27
+2026-06-03,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1780,80,Normal,Stable operation,2026-06-03 17:19:25
+2026-06-03,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,892,42,Normal,Normal operation,2026-06-03 14:28:07
+2026-06-03,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1670,-30,Warning,Operating within expected range,2026-06-03 15:35:14
+2026-06-03,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Inactive,Scheduled,2000,1700,0,-1700,Critical,Scheduled inspection in progress,2026-06-03 09:04:57
+2026-06-03,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1800,-70,Warning,No abnormal conditions reported,2026-06-03 09:17:42
+2026-06-03,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,2048,8,Normal,No abnormal conditions reported,2026-06-03 15:30:15
+2026-06-03,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Active,None,2600,2210,2278,68,Normal,Stable operation,2026-06-03 07:06:42
+2026-06-03,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2377,-3,Warning,Normal operation,2026-06-03 19:46:03
+2026-06-03,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Active,None,3000,2550,2603,53,Normal,Operating within expected range,2026-06-03 06:25:46
+2026-06-03,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2694,-26,Warning,Stable operation,2026-06-03 09:12:34
+2026-06-03,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,2891,1,Normal,Flow aligned with forecast,2026-06-03 13:15:55
+2026-06-03,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,3192,132,Normal,No abnormal conditions reported,2026-06-03 07:03:41
+2026-06-03,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3391,161,Normal,Operating within expected range,2026-06-03 18:54:15
+2026-06-03,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3315,-85,Warning,Stable operation,2026-06-03 19:25:57
+2026-06-03,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3446,-124,Warning,Normal operation,2026-06-03 10:59:50
+2026-06-04,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Active,None,1000,800,825,25,Normal,No abnormal conditions reported,2026-06-04 16:45:31
+2026-06-04,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1656,-44,Warning,Operating within expected range,2026-06-04 15:47:34
+2026-06-04,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,821,-29,Warning,Operating within expected range,2026-06-04 15:30:32
+2026-06-04,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1773,73,Normal,Operating within expected range,2026-06-04 14:05:54
+2026-06-04,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1660,-40,Warning,Stable operation,2026-06-04 12:07:56
+2026-06-04,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1891,21,Normal,Operating within expected range,2026-06-04 15:05:26
+2026-06-04,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,2079,39,Normal,Flow aligned with forecast,2026-06-04 10:13:42
+2026-06-04,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Active,None,2600,2210,2264,54,Normal,Normal operation,2026-06-04 08:42:41
+2026-06-04,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2349,-31,Warning,Operating within expected range,2026-06-04 06:29:39
+2026-06-04,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Active,None,3000,2550,2677,127,Normal,Operating within expected range,2026-06-04 14:13:32
+2026-06-04,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2676,-44,Warning,Operating within expected range,2026-06-04 09:23:18
+2026-06-04,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,2815,-75,Warning,Flow aligned with forecast,2026-06-04 15:51:41
+2026-06-04,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,3083,23,Normal,No abnormal conditions reported,2026-06-04 10:59:42
+2026-06-04,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3131,-99,Warning,Flow aligned with forecast,2026-06-04 07:56:06
+2026-06-04,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3491,91,Normal,Flow aligned with forecast,2026-06-04 15:13:45
+2026-06-04,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3537,-33,Warning,Flow aligned with forecast,2026-06-04 14:31:16
+2026-06-05,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Active,None,1000,800,689,-111,Warning,Minor flow dip observed,2026-06-05 16:27:53
+2026-06-05,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Inactive,Scheduled,2000,1700,0,-1700,Critical,Planned maintenance window active,2026-06-05 16:16:10
+2026-06-05,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,873,23,Normal,Normal operation,2026-06-05 14:00:07
+2026-06-05,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1644,-56,Warning,Stable operation,2026-06-05 14:02:53
+2026-06-05,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1688,-12,Warning,Normal operation,2026-06-05 08:02:19
+2026-06-05,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1857,-13,Warning,Operating within expected range,2026-06-05 11:13:43
+2026-06-05,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,2004,-36,Warning,No abnormal conditions reported,2026-06-05 19:26:39
+2026-06-05,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Active,None,2600,2210,2271,61,Normal,Stable operation,2026-06-05 19:10:51
+2026-06-05,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2458,78,Normal,Operating within expected range,2026-06-05 08:47:59
+2026-06-05,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Active,None,3000,2550,2524,-26,Warning,Stable operation,2026-06-05 10:10:50
+2026-06-05,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2783,63,Normal,Operating within expected range,2026-06-05 19:30:14
+2026-06-05,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,2826,-64,Warning,Flow aligned with forecast,2026-06-05 10:52:50
+2026-06-05,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,3178,118,Normal,Stable operation,2026-06-05 12:21:17
+2026-06-05,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3352,122,Normal,Flow aligned with forecast,2026-06-05 11:41:32
+2026-06-05,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3386,-14,Warning,No abnormal conditions reported,2026-06-05 11:01:07
+2026-06-05,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3709,139,Normal,No abnormal conditions reported,2026-06-05 10:02:06
+2026-06-06,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Maintenance,Scheduled,1000,800,639,-161,Critical,Scheduled line check underway,2026-06-06 15:32:07
+2026-06-06,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1691,-9,Warning,Flow aligned with forecast,2026-06-06 06:45:27
+2026-06-06,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,816,-34,Warning,No abnormal conditions reported,2026-06-06 16:46:47
+2026-06-06,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1745,45,Normal,Normal operation,2026-06-06 07:42:58
+2026-06-06,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1683,-17,Warning,Operating within expected range,2026-06-06 17:57:19
+2026-06-06,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1881,11,Normal,Flow aligned with forecast,2026-06-06 12:44:18
+2026-06-06,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,2060,20,Normal,Normal operation,2026-06-06 16:47:57
+2026-06-06,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Active,None,2600,2210,2156,-54,Warning,Normal operation,2026-06-06 14:53:00
+2026-06-06,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2350,-30,Warning,No abnormal conditions reported,2026-06-06 15:41:20
+2026-06-06,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Active,None,3000,2550,2555,5,Normal,Stable operation,2026-06-06 14:30:50
+2026-06-06,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2832,112,Normal,Stable operation,2026-06-06 16:05:18
+2026-06-06,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,2908,18,Normal,Flow aligned with forecast,2026-06-06 07:52:48
+2026-06-06,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,3002,-58,Warning,Stable operation,2026-06-06 08:01:02
+2026-06-06,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3172,-58,Warning,Operating within expected range,2026-06-06 13:26:56
+2026-06-06,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3457,57,Normal,Normal operation,2026-06-06 13:25:15
+2026-06-06,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3475,-95,Warning,Operating within expected range,2026-06-06 18:27:14
+2026-06-07,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Active,None,1000,800,572,-228,Critical,"Reduced throughput, operator monitoring",2026-06-07 06:35:15
+2026-06-07,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1772,72,Normal,Stable operation,2026-06-07 18:29:42
+2026-06-07,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,857,7,Normal,Flow aligned with forecast,2026-06-07 18:57:28
+2026-06-07,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1726,26,Normal,No abnormal conditions reported,2026-06-07 12:53:58
+2026-06-07,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1716,16,Normal,Normal operation,2026-06-07 13:16:48
+2026-06-07,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1837,-33,Warning,No abnormal conditions reported,2026-06-07 13:40:15
+2026-06-07,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,2009,-31,Warning,Flow aligned with forecast,2026-06-07 09:17:21
+2026-06-07,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Active,None,2600,2210,2185,-25,Warning,Stable operation,2026-06-07 08:14:24
+2026-06-07,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2433,53,Normal,Operating within expected range,2026-06-07 12:26:21
+2026-06-07,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Active,None,3000,2550,2573,23,Normal,Stable operation,2026-06-07 19:26:24
+2026-06-07,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2833,113,Normal,Operating within expected range,2026-06-07 19:56:48
+2026-06-07,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,2924,34,Normal,Flow aligned with forecast,2026-06-07 10:48:24
+2026-06-07,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,3173,113,Normal,Normal operation,2026-06-07 14:47:47
+2026-06-07,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3260,30,Normal,Stable operation,2026-06-07 13:14:17
+2026-06-07,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Inactive,Scheduled,4000,3400,0,-3400,Critical,Routine maintenance and calibration,2026-06-07 16:43:51
+2026-06-07,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3557,-13,Warning,Normal operation,2026-06-07 08:39:34
+2026-06-08,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Active,None,1000,800,770,-30,Warning,No abnormal conditions reported,2026-06-08 16:01:05
+2026-06-08,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1730,30,Normal,Normal operation,2026-06-08 08:03:16
+2026-06-08,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,845,-5,Warning,Flow aligned with forecast,2026-06-08 11:48:56
+2026-06-08,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1690,-10,Warning,Normal operation,2026-06-08 10:53:05
+2026-06-08,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1704,4,Normal,Operating within expected range,2026-06-08 11:14:41
+2026-06-08,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1807,-63,Warning,Operating within expected range,2026-06-08 18:01:15
+2026-06-08,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Inactive,Scheduled,2400,2040,0,-2040,Critical,Planned maintenance window active,2026-06-08 09:08:30
+2026-06-08,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Active,None,2600,2210,2255,45,Normal,Stable operation,2026-06-08 13:44:16
+2026-06-08,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2449,69,Normal,No abnormal conditions reported,2026-06-08 17:45:07
+2026-06-08,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Maintenance,Unscheduled,3000,2550,2131,-419,Critical,Leak check initiated after abnormal reading,2026-06-08 06:59:19
+2026-06-08,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2752,32,Normal,Normal operation,2026-06-08 12:45:12
+2026-06-08,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,2794,-96,Warning,Stable operation,2026-06-08 07:44:49
+2026-06-08,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,3021,-39,Warning,Operating within expected range,2026-06-08 18:36:50
+2026-06-08,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3113,-117,Warning,Flow aligned with forecast,2026-06-08 07:32:41
+2026-06-08,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3368,-32,Warning,Normal operation,2026-06-08 07:27:23
+2026-06-08,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3631,61,Normal,Stable operation,2026-06-08 12:11:46
+2026-06-09,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Active,None,1000,800,806,6,Normal,No abnormal conditions reported,2026-06-09 18:58:34
+2026-06-09,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1751,51,Normal,No abnormal conditions reported,2026-06-09 10:20:54
+2026-06-09,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,835,-15,Warning,Flow aligned with forecast,2026-06-09 13:15:48
+2026-06-09,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1703,3,Normal,Normal operation,2026-06-09 11:01:31
+2026-06-09,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1762,62,Normal,Stable operation,2026-06-09 11:51:16
+2026-06-09,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1852,-18,Warning,Flow aligned with forecast,2026-06-09 14:00:33
+2026-06-09,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,2132,92,Normal,Normal operation,2026-06-09 13:35:48
+2026-06-09,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Active,None,2600,2210,2169,-41,Warning,Normal operation,2026-06-09 13:50:01
+2026-06-09,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2305,-75,Warning,Stable operation,2026-06-09 10:42:37
+2026-06-09,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Maintenance,Unscheduled,3000,2550,1922,-628,Critical,Leak check initiated after abnormal reading,2026-06-09 11:22:44
+2026-06-09,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2722,2,Normal,Stable operation,2026-06-09 07:46:12
+2026-06-09,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,2856,-34,Warning,Stable operation,2026-06-09 09:13:47
+2026-06-09,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,3071,11,Normal,No abnormal conditions reported,2026-06-09 15:18:06
+2026-06-09,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3343,113,Normal,Flow aligned with forecast,2026-06-09 08:19:00
+2026-06-09,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3481,81,Normal,Operating within expected range,2026-06-09 06:35:18
+2026-06-09,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3651,81,Normal,Normal operation,2026-06-09 07:55:00
+2026-06-10,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Active,None,1000,800,809,9,Normal,Normal operation,2026-06-10 11:11:03
+2026-06-10,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1671,-29,Warning,Operating within expected range,2026-06-10 19:04:25
+2026-06-10,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Maintenance,Unscheduled,1000,850,662,-188,Critical,Valve issue detected during shift,2026-06-10 08:51:36
+2026-06-10,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1777,77,Normal,Stable operation,2026-06-10 07:35:48
+2026-06-10,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1696,-4,Warning,No abnormal conditions reported,2026-06-10 09:49:33
+2026-06-10,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1859,-11,Warning,Flow aligned with forecast,2026-06-10 19:37:27
+2026-06-10,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,2014,-26,Warning,No abnormal conditions reported,2026-06-10 17:06:48
+2026-06-10,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Active,None,2600,2210,2163,-47,Warning,Operating within expected range,2026-06-10 08:15:11
+2026-06-10,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2403,23,Normal,Normal operation,2026-06-10 13:44:38
+2026-06-10,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Maintenance,Unscheduled,3000,2550,1974,-576,Critical,Unexpected flow instability reported,2026-06-10 17:55:29
+2026-06-10,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2629,-91,Warning,Flow aligned with forecast,2026-06-10 18:50:40
+2026-06-10,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,2928,38,Normal,Stable operation,2026-06-10 12:07:34
+2026-06-10,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,3000,-60,Warning,Flow aligned with forecast,2026-06-10 19:09:04
+2026-06-10,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3118,-112,Warning,No abnormal conditions reported,2026-06-10 17:52:36
+2026-06-10,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3546,146,Normal,Normal operation,2026-06-10 17:19:44
+2026-06-10,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3557,-13,Warning,No abnormal conditions reported,2026-06-10 13:28:05
+2026-06-11,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Active,None,1000,800,811,11,Normal,Flow aligned with forecast,2026-06-11 15:16:01
+2026-06-11,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1646,-54,Warning,No abnormal conditions reported,2026-06-11 15:01:48
+2026-06-11,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Maintenance,Unscheduled,1000,850,692,-158,Critical,Valve issue detected during shift,2026-06-11 13:33:41
+2026-06-11,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1700,0,Normal,No abnormal conditions reported,2026-06-11 12:40:52
+2026-06-11,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1707,7,Normal,Flow aligned with forecast,2026-06-11 12:21:20
+2026-06-11,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1908,38,Normal,Flow aligned with forecast,2026-06-11 12:44:31
+2026-06-11,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,2011,-29,Warning,No abnormal conditions reported,2026-06-11 06:29:05
+2026-06-11,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Active,None,2600,2210,2184,-26,Warning,Normal operation,2026-06-11 19:32:52
+2026-06-11,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2496,116,Normal,No abnormal conditions reported,2026-06-11 13:26:03
+2026-06-11,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Maintenance,Scheduled,3000,2550,1830,-720,Critical,Scheduled line check underway,2026-06-11 18:03:13
+2026-06-11,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2677,-43,Warning,Flow aligned with forecast,2026-06-11 13:56:44
+2026-06-11,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Inactive,Scheduled,3400,2890,0,-2890,Critical,Planned maintenance window active,2026-06-11 17:10:19
+2026-06-11,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,3089,29,Normal,Operating within expected range,2026-06-11 09:53:58
+2026-06-11,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3134,-96,Warning,Stable operation,2026-06-11 13:59:45
+2026-06-11,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3353,-47,Warning,Normal operation,2026-06-11 19:30:30
+2026-06-11,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3506,-64,Warning,Normal operation,2026-06-11 09:58:38
+2026-06-12,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Active,None,1000,800,805,5,Normal,Operating within expected range,2026-06-12 10:49:50
+2026-06-12,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1763,63,Normal,No abnormal conditions reported,2026-06-12 10:52:00
+2026-06-12,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,838,-12,Warning,No abnormal conditions reported,2026-06-12 15:42:31
+2026-06-12,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1764,64,Normal,Normal operation,2026-06-12 11:21:35
+2026-06-12,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1749,49,Normal,Flow aligned with forecast,2026-06-12 19:12:44
+2026-06-12,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1835,-35,Warning,Normal operation,2026-06-12 06:20:47
+2026-06-12,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,2045,5,Normal,Normal operation,2026-06-12 12:42:50
+2026-06-12,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Active,None,2600,2210,2285,75,Normal,Normal operation,2026-06-12 06:08:32
+2026-06-12,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2492,112,Normal,Operating within expected range,2026-06-12 19:54:28
+2026-06-12,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Active,None,3000,2550,2471,-79,Warning,Operating within expected range,2026-06-12 17:09:26
+2026-06-12,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2824,104,Normal,Operating within expected range,2026-06-12 13:50:16
+2026-06-12,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,2862,-28,Warning,Operating within expected range,2026-06-12 19:21:54
+2026-06-12,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,3123,63,Normal,Flow aligned with forecast,2026-06-12 16:45:56
+2026-06-12,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3322,92,Normal,Operating within expected range,2026-06-12 15:04:15
+2026-06-12,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3457,57,Normal,Stable operation,2026-06-12 17:05:27
+2026-06-12,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3742,172,Normal,Operating within expected range,2026-06-12 13:10:44
+2026-06-13,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Inactive,Scheduled,1000,800,0,-800,Critical,Routine maintenance and calibration,2026-06-13 18:03:18
+2026-06-13,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1687,-13,Warning,Stable operation,2026-06-13 14:26:36
+2026-06-13,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,868,18,Normal,Stable operation,2026-06-13 07:39:55
+2026-06-13,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1691,-9,Warning,Normal operation,2026-06-13 15:09:14
+2026-06-13,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1703,3,Normal,Flow aligned with forecast,2026-06-13 16:00:57
+2026-06-13,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1931,61,Normal,No abnormal conditions reported,2026-06-13 08:04:28
+2026-06-13,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,2132,92,Normal,Flow aligned with forecast,2026-06-13 16:27:44
+2026-06-13,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Active,None,2600,2210,2171,-39,Warning,Stable operation,2026-06-13 12:54:30
+2026-06-13,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2308,-72,Warning,Flow aligned with forecast,2026-06-13 15:18:44
+2026-06-13,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Active,None,3000,2550,2516,-34,Warning,Normal operation,2026-06-13 10:00:36
+2026-06-13,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2823,103,Normal,Operating within expected range,2026-06-13 15:47:31
+2026-06-13,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,2991,101,Normal,Stable operation,2026-06-13 15:51:22
+2026-06-13,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,2998,-62,Warning,Flow aligned with forecast,2026-06-13 16:48:46
+2026-06-13,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3324,94,Normal,Stable operation,2026-06-13 16:06:57
+2026-06-13,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Inactive,Scheduled,4000,3400,0,-3400,Critical,Scheduled line check underway,2026-06-13 06:37:23
+2026-06-13,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3663,93,Normal,Flow aligned with forecast,2026-06-13 11:47:26
+2026-06-14,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Active,None,1000,800,781,-19,Warning,No abnormal conditions reported,2026-06-14 11:33:32
+2026-06-14,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1772,72,Normal,Flow aligned with forecast,2026-06-14 19:30:51
+2026-06-14,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,839,-11,Warning,Operating within expected range,2026-06-14 13:04:09
+2026-06-14,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1747,47,Normal,Normal operation,2026-06-14 19:51:35
+2026-06-14,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1688,-12,Warning,Operating within expected range,2026-06-14 10:34:07
+2026-06-14,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1442,-428,Critical,Slight pressure fluctuation seen,2026-06-14 15:24:52
+2026-06-14,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,2076,36,Normal,Stable operation,2026-06-14 13:01:39
+2026-06-14,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Active,None,2600,2210,2297,87,Normal,No abnormal conditions reported,2026-06-14 09:41:04
+2026-06-14,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2421,41,Normal,Flow aligned with forecast,2026-06-14 16:26:07
+2026-06-14,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Active,None,3000,2550,2480,-70,Warning,Flow aligned with forecast,2026-06-14 13:07:06
+2026-06-14,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2669,-51,Warning,Normal operation,2026-06-14 13:23:42
+2026-06-14,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,3021,131,Normal,No abnormal conditions reported,2026-06-14 12:37:47
+2026-06-14,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,3138,78,Normal,Operating within expected range,2026-06-14 19:31:39
+2026-06-14,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3219,-11,Warning,Operating within expected range,2026-06-14 17:23:13
+2026-06-14,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3400,0,Normal,Flow aligned with forecast,2026-06-14 07:43:23
+2026-06-14,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3602,32,Normal,Flow aligned with forecast,2026-06-14 06:25:17
+2026-06-15,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Active,None,1000,800,782,-18,Warning,Normal operation,2026-06-15 07:42:13
+2026-06-15,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1730,30,Normal,Operating within expected range,2026-06-15 06:50:21
+2026-06-15,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,835,-15,Warning,No abnormal conditions reported,2026-06-15 09:04:53
+2026-06-15,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1749,49,Normal,Stable operation,2026-06-15 19:55:14
+2026-06-15,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1682,-18,Warning,No abnormal conditions reported,2026-06-15 06:17:54
+2026-06-15,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1640,-230,Warning,Slight pressure fluctuation seen,2026-06-15 18:11:07
+2026-06-15,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Inactive,Scheduled,2400,2040,0,-2040,Critical,Scheduled inspection in progress,2026-06-15 11:50:50
+2026-06-15,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Active,None,2600,2210,2169,-41,Warning,Stable operation,2026-06-15 10:03:08
+2026-06-15,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2444,64,Normal,Operating within expected range,2026-06-15 13:28:49
+2026-06-15,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Active,None,3000,2550,2531,-19,Warning,Normal operation,2026-06-15 14:14:39
+2026-06-15,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2622,-98,Warning,No abnormal conditions reported,2026-06-15 10:29:41
+2026-06-15,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,3025,135,Normal,Normal operation,2026-06-15 19:25:27
+2026-06-15,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,3127,67,Normal,Normal operation,2026-06-15 07:57:05
+2026-06-15,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3194,-36,Warning,Stable operation,2026-06-15 10:39:40
+2026-06-15,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3443,43,Normal,Normal operation,2026-06-15 15:33:18
+2026-06-15,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3573,3,Normal,Operating within expected range,2026-06-15 18:44:07
+2026-06-16,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Active,None,1000,800,829,29,Normal,No abnormal conditions reported,2026-06-16 17:55:13
+2026-06-16,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1698,-2,Warning,Normal operation,2026-06-16 11:52:29
+2026-06-16,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,847,-3,Warning,Flow aligned with forecast,2026-06-16 12:20:42
+2026-06-16,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1671,-29,Warning,Normal operation,2026-06-16 07:05:53
+2026-06-16,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1645,-55,Warning,Flow aligned with forecast,2026-06-16 18:08:35
+2026-06-16,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1294,-576,Critical,Slight pressure fluctuation seen,2026-06-16 16:07:26
+2026-06-16,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,2023,-17,Warning,Normal operation,2026-06-16 19:58:46
+2026-06-16,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Active,None,2600,2210,2132,-78,Warning,Flow aligned with forecast,2026-06-16 11:06:36
+2026-06-16,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2393,13,Normal,Normal operation,2026-06-16 09:54:06
+2026-06-16,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Active,None,3000,2550,2528,-22,Warning,Operating within expected range,2026-06-16 18:17:36
+2026-06-16,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2667,-53,Warning,No abnormal conditions reported,2026-06-16 18:52:39
+2026-06-16,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,2934,44,Normal,Operating within expected range,2026-06-16 15:59:42
+2026-06-16,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,3166,106,Normal,Stable operation,2026-06-16 10:44:48
+2026-06-16,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3191,-39,Warning,Operating within expected range,2026-06-16 08:55:09
+2026-06-16,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3437,37,Normal,Stable operation,2026-06-16 17:40:01
+2026-06-16,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3457,-113,Warning,Normal operation,2026-06-16 12:29:21
+2026-06-17,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Active,None,1000,800,779,-21,Warning,Flow aligned with forecast,2026-06-17 18:36:38
+2026-06-17,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Inactive,Scheduled,2000,1700,0,-1700,Critical,Planned maintenance window active,2026-06-17 18:39:03
+2026-06-17,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,868,18,Normal,Normal operation,2026-06-17 13:38:28
+2026-06-17,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1695,-5,Warning,No abnormal conditions reported,2026-06-17 07:22:27
+2026-06-17,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1649,-51,Warning,No abnormal conditions reported,2026-06-17 13:33:42
+2026-06-17,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1847,-23,Warning,No abnormal conditions reported,2026-06-17 06:00:13
+2026-06-17,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,2014,-26,Warning,Stable operation,2026-06-17 18:16:18
+2026-06-17,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Inactive,Scheduled,2600,2210,0,-2210,Critical,Scheduled line check underway,2026-06-17 08:08:24
+2026-06-17,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2399,19,Normal,No abnormal conditions reported,2026-06-17 19:42:51
+2026-06-17,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Active,None,3000,2550,2529,-21,Warning,Operating within expected range,2026-06-17 12:01:29
+2026-06-17,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2837,117,Normal,No abnormal conditions reported,2026-06-17 12:36:25
+2026-06-17,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,2959,69,Normal,Operating within expected range,2026-06-17 12:01:20
+2026-06-17,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,2985,-75,Warning,Normal operation,2026-06-17 19:44:58
+2026-06-17,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3206,-24,Warning,Operating within expected range,2026-06-17 09:27:37
+2026-06-17,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3387,-13,Warning,Flow aligned with forecast,2026-06-17 17:21:14
+2026-06-17,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3534,-36,Warning,No abnormal conditions reported,2026-06-17 16:07:33
+2026-06-18,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Active,None,1000,800,626,-174,Critical,Slight pressure fluctuation seen,2026-06-18 11:46:52
+2026-06-18,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1731,31,Normal,Operating within expected range,2026-06-18 08:16:12
+2026-06-18,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,829,-21,Warning,Operating within expected range,2026-06-18 08:49:40
+2026-06-18,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1708,8,Normal,No abnormal conditions reported,2026-06-18 13:43:59
+2026-06-18,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1767,67,Normal,No abnormal conditions reported,2026-06-18 11:55:40
+2026-06-18,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1848,-22,Warning,Normal operation,2026-06-18 13:40:19
+2026-06-18,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,2105,65,Normal,Flow aligned with forecast,2026-06-18 14:04:19
+2026-06-18,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Inactive,Scheduled,2600,2210,0,-2210,Critical,Routine maintenance and calibration,2026-06-18 19:18:04
+2026-06-18,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2423,43,Normal,Operating within expected range,2026-06-18 15:38:32
+2026-06-18,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Active,None,3000,2550,2536,-14,Warning,Operating within expected range,2026-06-18 13:58:51
+2026-06-18,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2751,31,Normal,No abnormal conditions reported,2026-06-18 13:32:09
+2026-06-18,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,3024,134,Normal,Flow aligned with forecast,2026-06-18 17:05:32
+2026-06-18,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Inactive,Scheduled,3600,3060,0,-3060,Critical,Scheduled line check underway,2026-06-18 13:33:33
+2026-06-18,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3278,48,Normal,Flow aligned with forecast,2026-06-18 12:26:49
+2026-06-18,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3368,-32,Warning,Flow aligned with forecast,2026-06-18 07:21:06
+2026-06-18,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3606,36,Normal,Flow aligned with forecast,2026-06-18 17:54:42
+2026-06-19,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Active,None,1000,800,837,37,Normal,Stable operation,2026-06-19 11:05:37
+2026-06-19,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1734,34,Normal,Flow aligned with forecast,2026-06-19 16:44:42
+2026-06-19,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,846,-4,Warning,Operating within expected range,2026-06-19 10:35:24
+2026-06-19,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1730,30,Normal,Stable operation,2026-06-19 16:44:53
+2026-06-19,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1777,77,Normal,No abnormal conditions reported,2026-06-19 07:41:42
+2026-06-19,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1866,-4,Warning,Flow aligned with forecast,2026-06-19 10:11:13
+2026-06-19,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,2021,-19,Warning,Stable operation,2026-06-19 09:08:09
+2026-06-19,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Active,None,2600,2210,2137,-73,Warning,Operating within expected range,2026-06-19 14:49:34
+2026-06-19,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2464,84,Normal,Operating within expected range,2026-06-19 16:21:56
+2026-06-19,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Active,None,3000,2550,2624,74,Normal,Normal operation,2026-06-19 08:10:11
+2026-06-19,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2815,95,Normal,Stable operation,2026-06-19 17:28:02
+2026-06-19,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,2881,-9,Warning,Stable operation,2026-06-19 13:39:18
+2026-06-19,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,3145,85,Normal,Stable operation,2026-06-19 14:15:19
+2026-06-19,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3381,151,Normal,Stable operation,2026-06-19 11:43:36
+2026-06-19,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3565,165,Normal,Flow aligned with forecast,2026-06-19 18:24:32
+2026-06-19,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3597,27,Normal,Stable operation,2026-06-19 18:38:08
+2026-06-20,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Inactive,Scheduled,1000,800,0,-800,Critical,Scheduled line check underway,2026-06-20 19:23:35
+2026-06-20,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1775,75,Normal,No abnormal conditions reported,2026-06-20 19:07:18
+2026-06-20,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,822,-28,Warning,Normal operation,2026-06-20 14:09:53
+2026-06-20,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1699,-1,Warning,Stable operation,2026-06-20 19:28:56
+2026-06-20,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Inactive,Scheduled,2000,1700,0,-1700,Critical,Scheduled inspection in progress,2026-06-20 12:32:23
+2026-06-20,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1835,-35,Warning,Flow aligned with forecast,2026-06-20 09:01:20
+2026-06-20,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,2129,89,Normal,Flow aligned with forecast,2026-06-20 18:09:08
+2026-06-20,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Active,None,2600,2210,2129,-81,Warning,Normal operation,2026-06-20 17:53:08
+2026-06-20,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2447,67,Normal,No abnormal conditions reported,2026-06-20 06:57:05
+2026-06-20,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Active,None,3000,2550,2452,-98,Warning,Stable operation,2026-06-20 14:46:38
+2026-06-20,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2740,20,Normal,Flow aligned with forecast,2026-06-20 09:19:07
+2026-06-20,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,2787,-103,Warning,No abnormal conditions reported,2026-06-20 13:04:07
+2026-06-20,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,3168,108,Normal,No abnormal conditions reported,2026-06-20 06:40:32
+2026-06-20,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3268,38,Normal,Flow aligned with forecast,2026-06-20 12:00:39
+2026-06-20,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3372,-28,Warning,Stable operation,2026-06-20 16:42:05
+2026-06-20,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3595,25,Normal,No abnormal conditions reported,2026-06-20 14:32:50
+2026-06-21,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Active,None,1000,800,839,39,Normal,Normal operation,2026-06-21 19:30:02
+2026-06-21,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1729,29,Normal,Flow aligned with forecast,2026-06-21 17:01:22
+2026-06-21,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,876,26,Normal,Operating within expected range,2026-06-21 18:37:47
+2026-06-21,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1748,48,Normal,Flow aligned with forecast,2026-06-21 14:21:52
+2026-06-21,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1730,30,Normal,Normal operation,2026-06-21 17:30:40
+2026-06-21,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1826,-44,Warning,Normal operation,2026-06-21 06:18:12
+2026-06-21,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,1966,-74,Warning,Operating within expected range,2026-06-21 11:59:19
+2026-06-21,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Active,None,2600,2210,2224,14,Normal,No abnormal conditions reported,2026-06-21 13:16:02
+2026-06-21,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2446,66,Normal,Flow aligned with forecast,2026-06-21 19:49:03
+2026-06-21,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Active,None,3000,2550,2647,97,Normal,Operating within expected range,2026-06-21 18:23:27
+2026-06-21,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2829,109,Normal,Normal operation,2026-06-21 11:11:31
+2026-06-21,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Maintenance,Scheduled,3400,2890,2365,-525,Critical,Routine maintenance and calibration,2026-06-21 18:05:46
+2026-06-21,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,3055,-5,Warning,Stable operation,2026-06-21 14:18:20
+2026-06-21,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3131,-99,Warning,Flow aligned with forecast,2026-06-21 10:28:38
+2026-06-21,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3484,84,Normal,Normal operation,2026-06-21 11:28:02
+2026-06-21,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3661,91,Normal,No abnormal conditions reported,2026-06-21 12:17:40
+2026-06-22,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Active,None,1000,800,839,39,Normal,Operating within expected range,2026-06-22 16:40:25
+2026-06-22,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1688,-12,Warning,Stable operation,2026-06-22 06:09:54
+2026-06-22,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,862,12,Normal,Operating within expected range,2026-06-22 08:04:15
+2026-06-22,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1751,51,Normal,Normal operation,2026-06-22 15:02:38
+2026-06-22,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1655,-45,Warning,Flow aligned with forecast,2026-06-22 11:28:48
+2026-06-22,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1808,-62,Warning,Flow aligned with forecast,2026-06-22 12:20:41
+2026-06-22,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,2010,-30,Warning,Operating within expected range,2026-06-22 17:11:31
+2026-06-22,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Active,None,2600,2210,2225,15,Normal,Operating within expected range,2026-06-22 10:49:16
+2026-06-22,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2436,56,Normal,No abnormal conditions reported,2026-06-22 10:44:58
+2026-06-22,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Active,None,3000,2550,2677,127,Normal,Stable operation,2026-06-22 19:04:28
+2026-06-22,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2653,-67,Warning,Operating within expected range,2026-06-22 18:43:54
+2026-06-22,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,3031,141,Normal,Operating within expected range,2026-06-22 14:34:18
+2026-06-22,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,3183,123,Normal,Stable operation,2026-06-22 18:23:32
+2026-06-22,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3166,-64,Warning,Stable operation,2026-06-22 09:50:31
+2026-06-22,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3272,-128,Warning,Flow aligned with forecast,2026-06-22 13:51:35
+2026-06-22,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3469,-101,Warning,Operating within expected range,2026-06-22 10:25:45
+2026-06-23,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Active,None,1000,800,820,20,Normal,Normal operation,2026-06-23 19:36:04
+2026-06-23,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1651,-49,Warning,Operating within expected range,2026-06-23 13:29:43
+2026-06-23,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,856,6,Normal,No abnormal conditions reported,2026-06-23 16:37:11
+2026-06-23,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1749,49,Normal,No abnormal conditions reported,2026-06-23 19:03:53
+2026-06-23,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1651,-49,Warning,Stable operation,2026-06-23 08:20:59
+2026-06-23,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1915,45,Normal,No abnormal conditions reported,2026-06-23 10:54:05
+2026-06-23,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,2004,-36,Warning,No abnormal conditions reported,2026-06-23 10:08:40
+2026-06-23,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Active,None,2600,2210,2182,-28,Warning,No abnormal conditions reported,2026-06-23 16:10:37
+2026-06-23,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2486,106,Normal,No abnormal conditions reported,2026-06-23 17:57:38
+2026-06-23,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Active,None,3000,2550,2525,-25,Warning,Operating within expected range,2026-06-23 19:55:01
+2026-06-23,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2631,-89,Warning,No abnormal conditions reported,2026-06-23 10:41:13
+2026-06-23,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,2974,84,Normal,Operating within expected range,2026-06-23 13:56:40
+2026-06-23,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,3088,28,Normal,Flow aligned with forecast,2026-06-23 13:15:51
+2026-06-23,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3335,105,Normal,Normal operation,2026-06-23 07:44:03
+2026-06-23,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3312,-88,Warning,Normal operation,2026-06-23 09:21:38
+2026-06-23,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3473,-97,Warning,Flow aligned with forecast,2026-06-23 17:55:22
+2026-06-24,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Active,None,1000,800,838,38,Normal,Flow aligned with forecast,2026-06-24 14:35:06
+2026-06-24,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1681,-19,Warning,Flow aligned with forecast,2026-06-24 13:15:09
+2026-06-24,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,823,-27,Warning,Normal operation,2026-06-24 19:39:26
+2026-06-24,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1670,-30,Warning,Stable operation,2026-06-24 19:20:59
+2026-06-24,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1720,20,Normal,Stable operation,2026-06-24 13:32:29
+2026-06-24,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1879,9,Normal,Operating within expected range,2026-06-24 07:25:32
+2026-06-24,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,2042,2,Normal,No abnormal conditions reported,2026-06-24 11:03:03
+2026-06-24,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Active,None,2600,2210,2178,-32,Warning,Normal operation,2026-06-24 10:34:00
+2026-06-24,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2466,86,Normal,Flow aligned with forecast,2026-06-24 17:23:48
+2026-06-24,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Inactive,Scheduled,3000,2550,0,-2550,Critical,Scheduled inspection in progress,2026-06-24 15:35:12
+2026-06-24,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2700,-20,Warning,Normal operation,2026-06-24 14:28:48
+2026-06-24,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,2917,27,Normal,No abnormal conditions reported,2026-06-24 16:39:07
+2026-06-24,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Maintenance,Unscheduled,3600,3060,2160,-900,Critical,Unexpected flow instability reported,2026-06-24 14:23:48
+2026-06-24,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3143,-87,Warning,Normal operation,2026-06-24 14:02:02
+2026-06-24,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3276,-124,Warning,Normal operation,2026-06-24 14:29:09
+2026-06-24,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3622,52,Normal,Flow aligned with forecast,2026-06-24 15:20:10
+2026-06-25,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Active,None,1000,800,796,-4,Warning,Flow aligned with forecast,2026-06-25 15:21:32
+2026-06-25,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1759,59,Normal,No abnormal conditions reported,2026-06-25 10:30:52
+2026-06-25,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,817,-33,Warning,Operating within expected range,2026-06-25 12:37:19
+2026-06-25,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1754,54,Normal,Operating within expected range,2026-06-25 15:30:16
+2026-06-25,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1780,80,Normal,No abnormal conditions reported,2026-06-25 15:14:46
+2026-06-25,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1804,-66,Warning,No abnormal conditions reported,2026-06-25 16:46:39
+2026-06-25,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,2101,61,Normal,Stable operation,2026-06-25 06:36:44
+2026-06-25,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Inactive,Scheduled,2600,2210,0,-2210,Critical,Routine maintenance and calibration,2026-06-25 12:09:26
+2026-06-25,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2433,53,Normal,No abnormal conditions reported,2026-06-25 13:55:54
+2026-06-25,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Active,None,3000,2550,2617,67,Normal,Stable operation,2026-06-25 14:13:35
+2026-06-25,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2691,-29,Warning,No abnormal conditions reported,2026-06-25 12:20:11
+2026-06-25,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,2894,4,Normal,No abnormal conditions reported,2026-06-25 11:43:49
+2026-06-25,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,2612,-448,Warning,Slight pressure fluctuation seen,2026-06-25 15:30:12
+2026-06-25,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3379,149,Normal,Flow aligned with forecast,2026-06-25 09:19:49
+2026-06-25,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3352,-48,Warning,Normal operation,2026-06-25 11:30:22
+2026-06-25,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3607,37,Normal,Flow aligned with forecast,2026-06-25 10:07:36
+2026-06-26,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Active,None,1000,800,817,17,Normal,Normal operation,2026-06-26 19:22:49
+2026-06-26,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1755,55,Normal,Flow aligned with forecast,2026-06-26 17:05:22
+2026-06-26,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,887,37,Normal,Normal operation,2026-06-26 09:12:52
+2026-06-26,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1714,14,Normal,Flow aligned with forecast,2026-06-26 08:06:39
+2026-06-26,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1745,45,Normal,Operating within expected range,2026-06-26 16:57:33
+2026-06-26,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1833,-37,Warning,Operating within expected range,2026-06-26 12:21:45
+2026-06-26,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,2045,5,Normal,Stable operation,2026-06-26 06:35:59
+2026-06-26,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Active,None,2600,2210,2153,-57,Warning,Normal operation,2026-06-26 13:41:12
+2026-06-26,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2447,67,Normal,Flow aligned with forecast,2026-06-26 16:03:58
+2026-06-26,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Active,None,3000,2550,2624,74,Normal,Stable operation,2026-06-26 14:47:46
+2026-06-26,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Inactive,Scheduled,3200,2720,0,-2720,Critical,Planned maintenance window active,2026-06-26 12:56:53
+2026-06-26,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,2820,-70,Warning,Normal operation,2026-06-26 18:31:11
+2026-06-26,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,2654,-406,Warning,Slight pressure fluctuation seen,2026-06-26 06:00:19
+2026-06-26,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3266,36,Normal,Flow aligned with forecast,2026-06-26 10:29:41
+2026-06-26,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3430,30,Normal,Stable operation,2026-06-26 19:32:29
+2026-06-26,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3515,-55,Warning,Flow aligned with forecast,2026-06-26 08:46:29
+2026-06-27,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Active,None,1000,800,815,15,Normal,Operating within expected range,2026-06-27 17:21:50
+2026-06-27,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1677,-23,Warning,Stable operation,2026-06-27 08:39:54
+2026-06-27,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,865,15,Normal,Normal operation,2026-06-27 14:20:05
+2026-06-27,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1693,-7,Warning,Stable operation,2026-06-27 13:20:59
+2026-06-27,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1670,-30,Warning,Stable operation,2026-06-27 13:48:17
+2026-06-27,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1956,86,Normal,No abnormal conditions reported,2026-06-27 06:16:41
+2026-06-27,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,2024,-16,Warning,Operating within expected range,2026-06-27 13:19:10
+2026-06-27,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Active,None,2600,2210,2202,-8,Warning,Flow aligned with forecast,2026-06-27 17:07:40
+2026-06-27,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2481,101,Normal,No abnormal conditions reported,2026-06-27 09:14:08
+2026-06-27,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Active,None,3000,2550,2558,8,Normal,No abnormal conditions reported,2026-06-27 11:26:44
+2026-06-27,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2746,26,Normal,No abnormal conditions reported,2026-06-27 18:42:52
+2026-06-27,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,2831,-59,Warning,No abnormal conditions reported,2026-06-27 19:50:05
+2026-06-27,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,3082,22,Normal,Flow aligned with forecast,2026-06-27 07:58:36
+2026-06-27,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3133,-97,Warning,No abnormal conditions reported,2026-06-27 09:36:34
+2026-06-27,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3310,-90,Warning,No abnormal conditions reported,2026-06-27 13:07:43
+2026-06-27,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3493,-77,Warning,Operating within expected range,2026-06-27 14:28:51
+2026-06-28,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Active,None,1000,800,772,-28,Warning,Normal operation,2026-06-28 13:36:03
+2026-06-28,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1717,17,Normal,Flow aligned with forecast,2026-06-28 17:01:25
+2026-06-28,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Inactive,Scheduled,1000,850,0,-850,Critical,Planned maintenance window active,2026-06-28 15:04:02
+2026-06-28,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1697,-3,Warning,No abnormal conditions reported,2026-06-28 06:59:57
+2026-06-28,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1643,-57,Warning,Operating within expected range,2026-06-28 10:26:11
+2026-06-28,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1925,55,Normal,Normal operation,2026-06-28 11:57:24
+2026-06-28,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,2041,1,Normal,Normal operation,2026-06-28 12:05:43
+2026-06-28,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Active,None,2600,2210,2313,103,Normal,Stable operation,2026-06-28 16:55:22
+2026-06-28,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2310,-70,Warning,Normal operation,2026-06-28 14:08:46
+2026-06-28,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Active,None,3000,2550,2673,123,Normal,Operating within expected range,2026-06-28 10:29:43
+2026-06-28,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2787,67,Normal,Normal operation,2026-06-28 19:14:15
+2026-06-28,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,2894,4,Normal,Stable operation,2026-06-28 17:48:07
+2026-06-28,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,2946,-114,Warning,No abnormal conditions reported,2026-06-28 18:59:56
+2026-06-28,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3359,129,Normal,Operating within expected range,2026-06-28 07:38:02
+2026-06-28,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3401,1,Normal,Operating within expected range,2026-06-28 09:47:02
+2026-06-28,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3556,-14,Warning,Stable operation,2026-06-28 18:55:49
+2026-06-29,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Active,None,1000,800,772,-28,Warning,Flow aligned with forecast,2026-06-29 09:52:58
+2026-06-29,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1744,44,Normal,No abnormal conditions reported,2026-06-29 18:43:52
+2026-06-29,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,841,-9,Warning,Stable operation,2026-06-29 16:33:14
+2026-06-29,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1695,-5,Warning,No abnormal conditions reported,2026-06-29 15:56:47
+2026-06-29,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1771,71,Normal,Normal operation,2026-06-29 14:31:03
+2026-06-29,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1959,89,Normal,Normal operation,2026-06-29 18:33:20
+2026-06-29,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,2086,46,Normal,Flow aligned with forecast,2026-06-29 12:11:48
+2026-06-29,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Active,None,2600,2210,2229,19,Normal,Stable operation,2026-06-29 10:54:45
+2026-06-29,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2316,-64,Warning,Operating within expected range,2026-06-29 14:26:26
+2026-06-29,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Active,None,3000,2550,2576,26,Normal,Stable operation,2026-06-29 10:13:21
+2026-06-29,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2770,50,Normal,Flow aligned with forecast,2026-06-29 07:34:46
+2026-06-29,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Inactive,Scheduled,3400,2890,0,-2890,Critical,Scheduled line check underway,2026-06-29 16:38:38
+2026-06-29,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,2948,-112,Warning,No abnormal conditions reported,2026-06-29 17:42:35
+2026-06-29,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3164,-66,Warning,Flow aligned with forecast,2026-06-29 10:58:00
+2026-06-29,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Active,None,4000,3400,3329,-71,Warning,Operating within expected range,2026-06-29 17:48:30
+2026-06-29,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,3081,-489,Warning,"Below forecast, monitoring continues",2026-06-29 12:58:15
+2026-06-30,PL1001,Calgary_Plant,W1001,Calgary_North,X1001,XTL1,Active,None,1000,800,808,8,Normal,Normal operation,2026-06-30 13:34:41
+2026-06-30,PL1001,Calgary_Plant,W1001,Calgary_North,X1002,XTL2,Active,None,2000,1700,1687,-13,Warning,No abnormal conditions reported,2026-06-30 13:29:06
+2026-06-30,PL1001,Calgary_Plant,W1001,Calgary_North,X1003,XTL3,Active,None,1000,850,877,27,Normal,Flow aligned with forecast,2026-06-30 09:23:20
+2026-06-30,PL1001,Calgary_Plant,W1001,Calgary_North,X1004,XTL4,Active,None,2000,1700,1695,-5,Warning,Stable operation,2026-06-30 17:09:01
+2026-06-30,PL1001,Calgary_Plant,W1002,Calgary_South,Y1001,YTL1,Active,None,2000,1700,1672,-28,Warning,No abnormal conditions reported,2026-06-30 17:26:18
+2026-06-30,PL1001,Calgary_Plant,W1002,Calgary_South,Y1002,YTL2,Active,None,2200,1870,1821,-49,Warning,Normal operation,2026-06-30 15:53:15
+2026-06-30,PL1001,Calgary_Plant,W1002,Calgary_South,Y1003,YTL3,Active,None,2400,2040,2050,10,Normal,Flow aligned with forecast,2026-06-30 10:48:52
+2026-06-30,PL1001,Calgary_Plant,W1002,Calgary_South,Y1004,YTL4,Active,None,2600,2210,2219,9,Normal,Normal operation,2026-06-30 13:10:46
+2026-06-30,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1001,ETL1,Active,None,2800,2380,2455,75,Normal,No abnormal conditions reported,2026-06-30 13:11:58
+2026-06-30,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1002,ETL2,Active,None,3000,2550,2652,102,Normal,Operating within expected range,2026-06-30 14:02:53
+2026-06-30,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1003,ETL3,Active,None,3200,2720,2818,98,Normal,Operating within expected range,2026-06-30 18:00:26
+2026-06-30,PL1002,Edmonton_Plant,W1001,Edmonton_North,E1004,ETL4,Active,None,3400,2890,2810,-80,Warning,Operating within expected range,2026-06-30 17:09:00
+2026-06-30,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1001,FTL1,Active,None,3600,3060,2998,-62,Warning,Operating within expected range,2026-06-30 15:40:42
+2026-06-30,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1002,FTL2,Active,None,3800,3230,3372,142,Normal,Normal operation,2026-06-30 06:00:34
+2026-06-30,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1003,FTL3,Inactive,Scheduled,4000,3400,0,-3400,Critical,Routine maintenance and calibration,2026-06-30 14:18:01
+2026-06-30,PL1002,Edmonton_Plant,W1002,Edmonton_South,F1004,FTL4,Active,None,4200,3570,2786,-784,Critical,"Reduced throughput, operator monitoring",2026-06-30 18:58:11
