@@ -66,6 +66,13 @@ Power Apps → Power Automate → Power BI → SharePoint/Data Source
 
 ---
 
+## 🎬 Demo Video
+
+https://www.youtube.com/watch?v=9eYytH6P7Xc
+
+
+---
+
 ## 📷 Screenshots
 
 ### 1. 📊 Dashboard Overview
