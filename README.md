@@ -43,7 +43,7 @@ Improves operational efficiency, reduces downtime, and enables faster decision-m
 
 ---
 ### 3. Power App Update Flow
-![Update Flow](Post_Power_App update_Dashboard_refreshed.png)
+![Update Flow](Post_Power_App_update_Dashboard_refreshed.png)
 
 ---
 
