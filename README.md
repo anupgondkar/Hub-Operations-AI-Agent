@@ -34,21 +34,21 @@ Improves operational efficiency, reduces downtime, and enables faster decision-m
 ## 📷 Screenshots
 
 ### 1. Dashboard Overview
-![Dashboard](Main Screen Dashboard.png)
+![Dashboard](Main_Screen_Dashboard.png)
 
 ---
 
 ### 2. AI Query & Response
-![AI Response](AI Response 1.png)
+![AI Response](AI_Response_1.png)
 
 ---
 ### 3. Power App Update Flow
-![Update Flow](Post Power App update Dashboard refreshed.png)
+![Update Flow](Post_Power_App update_Dashboard_refreshed.png)
 
 ---
 
 ### 4. Post Update AI Detection
-![AI After Update](AI Response 2 post updated.png)
+![AI After Update](AI_Response_2_post_updated.png)
 
 
 Author:
