@@ -31,6 +31,26 @@ Power Apps, Power Automate, Power BI, SharePoint
 Business Value:
 Improves operational efficiency, reduces downtime, and enables faster decision-making.
 
+## 📷 Screenshots
+
+### 1. Dashboard Overview
+![Dashboard](Main Screen Dashboard.png)
+
+---
+
+### 2. AI Query & Response
+![AI Response](AI Response 1.png)
+
+---
+### 3. Power App Update Flow
+![Update Flow](Post Power App update Dashboard refreshed.png)
+
+---
+
+### 4. Post Update AI Detection
+![AI After Update](AI Response 2 post updated.png)
+
+
 Author:
 Anup Gondkar
 
